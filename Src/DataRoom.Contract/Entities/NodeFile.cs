@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace DataRoom.Core.Entities
+﻿namespace DataRoom.Contract.Entities
 {
     public class NodeFile : Node
     {

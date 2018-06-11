@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Common.Repository;
+﻿using Common.Repository;
 
-namespace DataRoom.Core.Entities
+namespace DataRoom.Contract.Entities
 {
     public class NodeProperty : EntityVersionable
     {

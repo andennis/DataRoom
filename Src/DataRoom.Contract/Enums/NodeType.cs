@@ -1,4 +1,4 @@
-﻿namespace DataRoom.Core.Enums
+﻿namespace DataRoom.Contract.Enums
 {
     public enum NodeType
     {

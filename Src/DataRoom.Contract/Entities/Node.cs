@@ -1,7 +1,7 @@
 ﻿using Common.Repository;
-using DataRoom.Core.Enums;
+using DataRoom.Contract.Enums;
 
-namespace DataRoom.Core.Entities
+namespace DataRoom.Contract.Entities
 {
     public class Node : EntityVersionable
     {
